@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using System;
 using WebAspNet5.Models.Repository;
-using WebAspNet5.Models.Db;
+using Model;
 
 namespace WebAspNet5.Middlewares
 {

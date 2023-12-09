@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace WebAspNet5.Models.Db
+namespace Model
 {
     /// <summary>
     ///  Модель поста в блоге

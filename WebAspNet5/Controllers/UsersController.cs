@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Threading.Tasks;
-using WebAspNet5.Models.Db;
+using Model;
 using WebAspNet5.Models.Repository;
 
 namespace WebAspNet5.Controllers

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WebAspNet5.Models.Db
+namespace Model
 {
     /// <summary>
     /// модель пользователя в блоге

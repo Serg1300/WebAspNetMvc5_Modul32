@@ -1,8 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.Threading.Tasks;
-using WebAspNet5.Models.Db;
-
+using Model;
 namespace WebAspNet5.Models.Repository
 {
     public class LogRepository : ILogRepository
